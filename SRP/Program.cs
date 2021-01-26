@@ -6,6 +6,8 @@ namespace SRP
     {
         static void Main(string[] args)
         {
+            //https://ppt-online.org/543101
+            // https://stackify.com/solid-design-open-closed-principle/
             //Frequency and Effects of Changes
 
             //The argument for the single responsibility principle is relatively simple:
