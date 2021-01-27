@@ -34,7 +34,7 @@ namespace SRP
             j.AddEntry("Сегодня прекрасный день");  
             j.AddEntry("Single responsibility principle");
             PersistanceManager persistanceManager = new PersistanceManager();
-            persistanceManager.SaveToFile(j, "Filename", true);
+            persistanceManager.SaveToFile(j, "Filename.txt", true);
         }
     }
 }
